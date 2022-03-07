@@ -1,0 +1,7 @@
+C:\Assignments\pcad5\assignment 4.1\obj\Debug\assignment 4.1.csproj.AssemblyReference.cache
+C:\Assignments\pcad5\assignment 4.1\obj\Debug\assignment 4.1.csproj.CoreCompileInputs.cache
+C:\Assignments\pcad5\assignment 4.1\bin\Debug\assignment 4.1.exe.config
+C:\Assignments\pcad5\assignment 4.1\bin\Debug\assignment 4.1.exe
+C:\Assignments\pcad5\assignment 4.1\bin\Debug\assignment 4.1.pdb
+C:\Assignments\pcad5\assignment 4.1\obj\Debug\assignment 4.1.exe
+C:\Assignments\pcad5\assignment 4.1\obj\Debug\assignment 4.1.pdb
