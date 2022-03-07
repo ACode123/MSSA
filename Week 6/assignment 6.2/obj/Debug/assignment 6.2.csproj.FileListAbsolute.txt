@@ -1,0 +1,16 @@
+C:\Users\qwert\source\repos\assignment 6.2\bin\Debug\assignment 6.2.exe.config
+C:\Users\qwert\source\repos\assignment 6.2\bin\Debug\assignment 6.2.exe
+C:\Users\qwert\source\repos\assignment 6.2\bin\Debug\assignment 6.2.pdb
+C:\Users\qwert\source\repos\assignment 6.2\bin\Debug\EntityFramework.dll
+C:\Users\qwert\source\repos\assignment 6.2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\qwert\source\repos\assignment 6.2\bin\Debug\EntityFramework.xml
+C:\Users\qwert\source\repos\assignment 6.2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\qwert\source\repos\assignment 6.2\obj\Debug\assignment 6.2.csproj.AssemblyReference.cache
+C:\Users\qwert\source\repos\assignment 6.2\obj\Debug\assignment 6.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\qwert\source\repos\assignment 6.2\obj\Debug\assignment_6._2.Form1.resources
+C:\Users\qwert\source\repos\assignment 6.2\obj\Debug\assignment_6._2.Properties.Resources.resources
+C:\Users\qwert\source\repos\assignment 6.2\obj\Debug\assignment 6.2.csproj.GenerateResource.cache
+C:\Users\qwert\source\repos\assignment 6.2\obj\Debug\assignment 6.2.csproj.CoreCompileInputs.cache
+C:\Users\qwert\source\repos\assignment 6.2\obj\Debug\assignment 6.2.csproj.CopyComplete
+C:\Users\qwert\source\repos\assignment 6.2\obj\Debug\assignment 6.2.exe
+C:\Users\qwert\source\repos\assignment 6.2\obj\Debug\assignment 6.2.pdb
