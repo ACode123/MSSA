@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTMLMod1Demo2", "HTMLMod1Demo2.csproj", "{EBFBE517-9719-4343-88DA-24BD6FD30EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBFBE517-9719-4343-88DA-24BD6FD30EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFBE517-9719-4343-88DA-24BD6FD30EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFBE517-9719-4343-88DA-24BD6FD30EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFBE517-9719-4343-88DA-24BD6FD30EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47E2FDDC-4555-4085-943C-0BA6E7B1F699}
+	EndGlobalSection
+EndGlobal
