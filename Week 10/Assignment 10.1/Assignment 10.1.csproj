@@ -71,6 +71,7 @@
     <Content Include="Images\AspirationsPic.jpg" />
     <Content Include="Images\assignmentImageJob.jpg" />
     <Content Include="Images\OIP %281%29.jpg" />
+    <Content Include="Video\Best Funny cats short video.mp4" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
