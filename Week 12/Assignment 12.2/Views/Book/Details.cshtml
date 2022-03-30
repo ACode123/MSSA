@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h1>Details</h1>
+<h1 class="display-4 font-weight-bold">Book Info</h1>
+
+<p>
+    Book Title: @ViewBag.SelectedBook
+</p>
+<figure class="figure">
+<img class="img-thumbnail" src="@Url.Action("GetImage", new {Title=ViewBag.SelectedBook})"width="300"/> 
+<figcaption class="figure-caption">I've never read this book but trust me its amazing!</figcaption>
+</figure>

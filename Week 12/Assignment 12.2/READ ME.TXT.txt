@@ -1,0 +1,3 @@
+Create MVC core web app to create: “Books Gallery” . UI to display necessary menu links like :
+ Home, About, Books. Click on Books link to display names of books and click on each book to see details of 
+each book ( like photo, author, description) Book model class will also be needed.

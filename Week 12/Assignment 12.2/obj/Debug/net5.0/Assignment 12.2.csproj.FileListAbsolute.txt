@@ -1,0 +1,117 @@
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\appsettings.Development.json
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\appsettings.json
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Assignment 12.2.exe
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Assignment 12.2.deps.json
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Assignment 12.2.runtimeconfig.json
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Assignment 12.2.runtimeconfig.dev.json
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Assignment 12.2.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Assignment 12.2.pdb
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Assignment 12.2.Views.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Assignment 12.2.Views.pdb
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Assignment 12.2.csproj.AssemblyReference.cache
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Assignment 12.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Assignment 12.2.AssemblyInfoInputs.cache
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Assignment 12.2.AssemblyInfo.cs
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Assignment 12.2.csproj.CoreCompileInputs.cache
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Assignment 12.2.MvcApplicationPartsAssemblyInfo.cache
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Assignment 12.2.RazorAssemblyInfo.cache
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Assignment 12.2.RazorAssemblyInfo.cs
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\scopedcss\bundle\Assignment 12.2.styles.css
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\staticwebassets\Assignment 12.2.StaticWebAssets.Manifest.cache
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Assignment 12.2.TagHelpers.input.cache
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Assignment 12.2.TagHelpers.output.cache
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Assignment 12.2.RazorCoreGenerate.cache
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Assignment 12.2.RazorTargetAssemblyInfo.cache
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Assignment 12.2.RazorTargetAssemblyInfo.cs
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Assignment 12.2.Views.pdb
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Assignment 12.2.dll
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\refint\Assignment 12.2.dll
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Assignment 12.2.pdb
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Assignment 12.2.genruntimeconfig.cache
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\ref\Assignment 12.2.dll
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Assignment 12.2.csproj.CopyComplete
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Humanizer.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Assignments\pcad5\Assignment 12.2\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Razor\Views\Book\Index.cshtml.g.cs
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Razor\Views\Book\Details.cshtml.g.cs
+C:\Assignments\pcad5\Assignment 12.2\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs

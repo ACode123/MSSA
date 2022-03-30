@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" href="~/css/DetailStyle.css" />
+<div class="text-center">
+<h1>The best books you will ever read</h1>
+<p>Please select a book:</p>
+@foreach(string bookname in ViewBag.Titles)
+    {
+        <p>
+            <a asp-action="Details" asp-route-Title="@bookname">@bookname</a>
+        </p>
+    }
+</div>
+
