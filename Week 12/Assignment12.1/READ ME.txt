@@ -1,0 +1,19 @@
+1.Create an empty template mvc project. Add Product class as a model class with following fields:
+a. Product Id
+b. Product Name
+Product Description
+Product price
+Product image
+Add a IproductRepository with basic CRUD methods and write a class ProductRepository to implement these methods. (we will write logic afterwards)
+
+Register this service in Configure services method
+
+Add a ProductController to have action method “DisplayAll” which will return “AllProductsView”. This view will display all the products from repository.
+Provide a link to click on each product and see the details of individual product like photo, description and price.
+
+2.Implement CRUD by using repository pattern for product website.
+
+3. Modify existing products website application to now work with databases.
+4. Create a separate layout for 1 or 2 views to display different layout than other. You may decide which views from product website
+
+5. Explore different bootstrap elements and check whether you could modify the product website with different bootstrap.

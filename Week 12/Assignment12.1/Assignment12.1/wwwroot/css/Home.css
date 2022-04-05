@@ -1,0 +1,80 @@
+﻿.splash{
+    position: fixed;
+    top: 0;
+    left:0;
+    width:100%;
+    height:100vh;
+    background:black;
+    z-index:200;
+    color:white;
+    text-align:center;
+    line-height:90vh;
+
+}
+.splash.display-none {
+    position: fixed;
+    opacity:0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: black;
+    z-index: -10;
+    color: white;
+    text-align: center;
+    line-height: 90vh;
+    transition:all 0.5s;
+}
+
+@keyframes fadeIn{
+    to
+    {
+        opacity: 1;
+    }
+}
+.fade-in{
+    opacity:0;
+    animation: fadeIn 1s ease-in forwards;
+}
+
+
+.twp-video-background {
+    background: #000;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    box-sizing: border-box;
+    z-index: -1;
+}
+
+.twp-video-foreground,
+.twp-video-background video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    box-sizing: border-box;
+    object-fit: cover;
+    z-index:-1;
+}
+
+.twp-video-foreground {
+    padding-bottom: 56.25%;
+    box-sizing: border-box;
+    z-index: -1;
+}
+
+.twp-video-layer {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+   
+    opacity: 0.5;
+    box-sizing: border-box;
+    z-index: -1;
+}
